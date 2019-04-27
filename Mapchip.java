@@ -16,6 +16,7 @@ public class MapChip extends JPanel{
 	}catch(IOException e){
 		
 	}
+	System.out.println("hosaka");
 	
 
 }
