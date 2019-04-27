@@ -16,6 +16,6 @@ public class MapChip extends JPanel{
 	}catch(IOException e){
 		
 	}
-	
+	//
 
 }
